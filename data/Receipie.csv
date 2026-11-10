@@ -1,0 +1,42 @@
+﻿RecipeID,RecipeName,IngredientQuantity,IngredientID
+1,Japche,150,1
+1,Japche,100,3
+1,Japche,50,4
+1,Japche,50,5
+1,Japche,5,8
+1,Japche,100,12
+1,Japche,400,17
+1,Japche,100,25
+2,Bulgogi,5,1
+2,Bulgogi,5,2
+2,Bulgogi,1.25,7
+2,Bulgogi,5,8
+2,Bulgogi,400,22
+3,Vegi-sausage fry,100,1
+3,Vegi-sausage fry,70,3
+3,Vegi-sausage fry,25,5
+3,Vegi-sausage fry,2,8
+3,Vegi-sausage fry,400,24
+4,Stir-fired pork,300,1
+4,Stir-fired pork,150,2
+4,Stir-fired pork,2.5,7
+4,Stir-fired pork,10,8
+4,Stir-fired pork,1000,19
+5,Chicken Stew,300,1
+5,Chicken Stew,150,2
+5,Chicken Stew,100,3
+5,Chicken Stew,25,6
+5,Chicken Stew,25,8
+5,Chicken Stew,600,9
+5,Chicken Stew,100,11
+5,Chicken Stew,1000,23
+6,Soy bean paste soup,150,1
+6,Soy bean paste soup,50,6
+6,Soy bean paste soup,2.5,8
+6,Soy bean paste soup,100,10
+6,Soy bean paste soup,75,13
+6,Soy bean paste soup,75,14
+7,Beef radish soup,150,2
+7,Beef radish soup,5,8
+7,Beef radish soup,25,16
+7,Beef radish soup,200,21

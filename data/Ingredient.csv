@@ -1,0 +1,26 @@
+﻿IngredientID,IngredientName,IngredientStorageNumber,FridgeID
+1,Onion,106,1
+2,Green onion,302,1
+3,Carrot,251,2
+4,Chives,154,2
+5,Paprika,384,3
+6,Chili pepper,363,3
+7,Ginger,396,4
+8,Garlic,212,4
+9,Potato,259,5
+10,Enoki mushroom,298,6
+11,Shiitake mushroom,184,6
+12,Wood ear mushroom,369,6
+13,Squash,200,7
+14,Tofu,364,7
+15,Bean sprouts,136,8
+16,Radish,101,8
+17,Pork(Sirloin),493,9
+18,Pork(Relief),367,10
+19,Pork(Front leg meat),351,11
+20,Beef(Sirloin),552,12
+21,Beef(Brisket),446,13
+22,Beef(Fron leg meat),354,14
+23,Chicken,505,15
+24,Sausage,165,16
+25,Glass noodle,342,16

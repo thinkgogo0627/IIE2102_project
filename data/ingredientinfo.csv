@@ -1,0 +1,26 @@
+﻿IngredientName,IngredientOrigin,IngredientCost,INGREDIENT_IngredientID
+Onion,Domestic,37,1
+Green onion,Domestic,47,2
+Carrot,Domestic,49,3
+Chives,Domestic,25,4
+Paprika,Domestic,46,5
+Chili pepper,Domestic,14,6
+Ginger,Domestic,50,7
+Garlic,Domestic,27,8
+Potato,Domestic,32,9
+Enoki mushroom,Domestic,32,10
+Shiitake mushroom,Domestic,30,11
+Wood ear mushroom,Domestic,39,12
+Squash,Domestic,22,13
+Tofu,Domestic,38,14
+Bean sprouts,Domestic,43,15
+Radish,Domestic,28,16
+Pork(Sirloin),Imported(US),250,17
+Pork(Relief),Imported(US),240,18
+Pork(Front leg meat),Imported(US),230,19
+Beef(Sirloin),Imported(Australia),330,20
+Beef(Brisket),Imported(Australia),335,21
+Beef(Fron leg meat),Imported(Australia),340,22
+Chicken,Domestic,210,23
+Sausage,Domestic,40,24
+Glass noodle,Imported(China),17,25
